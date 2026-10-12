@@ -1,0 +1,21 @@
+{
+    "000000": {
+        "nom": "Claude",
+        "code_pin": "1234",
+        "solde": 9550000,
+        "transactions": [
+            {
+                "date": "2026-10-12",
+                "heure": "20:47:02",
+                "type_operation": "Retrait",
+                "montant": 900000
+            },
+            {
+                "date": "2026-10-12",
+                "heure": "20:50:08",
+                "type_operation": "Depot",
+                "montant": 450000
+            }
+        ]
+    }
+}
